@@ -36,6 +36,10 @@ module.exports = {
             name: `Github`,
             url: `https://github.com/eugenetriguba`,
           },
+          {
+            name: `LinkedIn`,
+            url: `https://linkedin.com/in/eugenetriguba`,
+          },
         ],
         feed: true,
         feedTitle: "Blog - Eugene Triguba",

@@ -4,4 +4,4 @@
 
 This is the source code of my personal website which I use as a portfolio and blog. It is made with [Gatsby]() using the [minimal blog theme](https://github.com/LekoArts/gatsby-starter-minimal-blog) and hosted with [Netlify]().
 
-The source code for this website is licensed under the [MIT License](https://opensource.org/licenses/MIT). The textual content on it is licensed under a [Creative Commons Attribution/Share-Alike License](http://creativecommons.org/licenses/by-sa/3.0/).
+The source code for this website is licensed under the [MIT License](https://opensource.org/licenses/MIT). The `content/` is licensed under a [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
