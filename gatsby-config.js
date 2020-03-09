@@ -4,7 +4,14 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
+    siteTitle: "Eugene Triguba",
+    siteUrl: "https://triguba.com",
+    siteHeadline: "Eugene Triguba",
+    siteDescription: "A Personal Portfolio.",
+    siteLanguage: `en`,
     siteTitleAlt: `Portfolio - Eugene Triguba`,
+    siteImage: "null",
+    author: "Eugene Triguba",
   },
   plugins: [
     {
@@ -17,8 +24,8 @@ module.exports = {
           },
           {
             title: `About`,
-            slug: `/about`,
-          },
+            slug: `/about`
+          }
         ],
         externalLinks: [
           {
@@ -30,6 +37,8 @@ module.exports = {
             url: `https://github.com/eugenetriguba`,
           },
         ],
+        feed: true,
+        feedTitle: "Blog - Eugene Triguba",
       },
     },
     {
