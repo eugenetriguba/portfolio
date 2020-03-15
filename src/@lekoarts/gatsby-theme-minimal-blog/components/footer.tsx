@@ -21,7 +21,7 @@ const Footer = () => {
       }}
     >
       <div>
-        &copy; {new Date().getFullYear()} by {siteTitle}. Posts are made available under a <a href="https://creativecommons.org/licenses/by/4.0/">CCA License</a>.
+        &copy; {new Date().getFullYear()} by {siteTitle}. Posts are made available under a <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 License</a>.
       </div>
     </footer>
   )
